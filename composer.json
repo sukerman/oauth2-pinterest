@@ -28,12 +28,12 @@
   },
   "autoload": {
     "psr-4": {
-      "Ipalaus\\OAuth2\\Client\\": "src/"
+      "Sukerman\\OAuth2\\Client\\": "src/"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "Ipalaus\\OAuth2\\Client\\Test\\": "tests/"
+      "Sukerman\\OAuth2\\Client\\Test\\": "tests/"
     }
   },
   "extra": {
